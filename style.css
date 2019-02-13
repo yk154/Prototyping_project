@@ -1,0 +1,14 @@
+html {
+  margin: 0;
+  padding: 0;
+}
+
+header .navbar {
+	background-color: #fff;
+	border: none;
+	margin-right: 3.5%;
+	height: 4%;
+}
+
+#team_name{
+}
