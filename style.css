@@ -33,21 +33,10 @@ html {
 	margin-right: 2%;
 }
 
-#company {
+#description {
 	width: 60%;
 	margin: 2% auto 10px auto;
 }
-
-#software{
-	width: 59%;
-	margin: 2% auto 10px auto;
-}
-
-#founder{
-	width: 60%;
-	margin: 3% auto 10px auto;
-}
-
 
 h2{
 	width: 50%; margin: 2% auto 10px auto;
