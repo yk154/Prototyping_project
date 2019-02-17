@@ -1,10 +1,11 @@
 html {
-  margin: 0;
-  padding: 0;
+  margin: auto;
+	width: 60%;
+	padding: 10px;
 }
 
 .centerMain{
-    width: 50%; margin: 10px auto 10px auto; text-align: center;
+    margin: 10px auto 10px auto; text-align: center;
     padding-top: 7%;
     font-weight: 500;
     font-size: 6rem;
@@ -12,7 +13,7 @@ html {
 }
 
 .centerP{
-    width: 50%; margin: 2% auto 10px auto; text-align: center;
+    margin: 2% auto 10px auto; text-align: center;
     font-size: 15px;
     padding: 2%;
 
