@@ -15,8 +15,9 @@ html {
 .centerP{
     width: 60%; margin: 2% auto 10px auto;
     font-size: 15px;
-    padding: 2%;
-
+		padding: 2%;
+		border-bottom: 2px solid;
+		border-top: 2px solid;
 }
 
 .overview{
