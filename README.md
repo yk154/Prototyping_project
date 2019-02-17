@@ -1,4 +1,4 @@
-# Prototyping_project
+# StartIQ Team Website
 ## Exercise 1: Create Project Homepage by StartIQ team
 #### Team Members : Amy Kim(yk154), Sarah Faller
 
