@@ -33,6 +33,11 @@ html {
 	margin-right: 2%;
 }
 
+.wireframe_view {
+	width: 30%;
+	height: 30%;
+}
+
 #description {
 	width: 60%;
 	margin: 3% auto 10px auto;
@@ -44,8 +49,8 @@ html {
 
 h2{
 	width: 50%; margin: 2% auto 10px auto;
-    font-size: 15px;
-    padding-top: 2%;
+	font-size: 15px;
+	padding-top: 2%;
 }
 
 table {
