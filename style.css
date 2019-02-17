@@ -1,11 +1,10 @@
 html {
-  margin: auto;
-	width: 60%;
-	padding: 10px;
+  margin: 0;
+  padding: 0;
 }
 
 .centerMain{
-    margin: 10px auto 10px auto; text-align: center;
+    width: 50%; margin: 10px auto 10px auto; text-align: center;
     padding-top: 7%;
     font-weight: 500;
     font-size: 6rem;
@@ -13,7 +12,7 @@ html {
 }
 
 .centerP{
-    margin: 2% auto 10px auto; text-align: center;
+    width: 60%; margin: 2% auto 10px auto; text-align: center;
     font-size: 15px;
     padding: 2%;
 
@@ -28,7 +27,6 @@ h2{
 table {
  border-collapse: collapse;
  width: 80%; margin: 3% auto 10px auto; text-align: center;
- 
 }
 
 th{
